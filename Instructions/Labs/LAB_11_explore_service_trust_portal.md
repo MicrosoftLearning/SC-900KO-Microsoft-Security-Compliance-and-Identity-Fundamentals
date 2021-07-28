@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Service Trust Portal 살펴보기'
     module: '모듈 4 단원 1: Microsoft 규정 준수 솔루션의 기능 설명: Microsoft의 규정 준수 관리 기능 설명'
