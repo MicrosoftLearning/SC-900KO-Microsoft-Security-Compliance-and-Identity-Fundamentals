@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Microsoft 365 Defender 포털 살펴보기'
     module: '모듈 3 단원 5: Microsoft 보안 솔루션의 기능 설명: Microsoft 365의 보안 관리 기능 설명'

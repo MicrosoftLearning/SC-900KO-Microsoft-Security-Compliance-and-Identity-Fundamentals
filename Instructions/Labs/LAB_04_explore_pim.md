@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Privileged Identity Management를 통한 Azure AD의 ID 거버넌스 방식 살펴보기'
     module: '모듈 2 단원 4: Azure AD의 ID 보호 및 거버넌스 기능 설명: Azure Identity Protection 설명'

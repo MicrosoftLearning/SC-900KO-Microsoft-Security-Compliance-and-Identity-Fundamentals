@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '셀프 서비스 암호 재설정을 사용하는 Azure AD 인증 방식 살펴보기'
     module: '모듈 2 단원 2: Microsoft ID 및 액세스 관리 솔루션의 기능 설명: Azure AD의 다양한 인증 방법 설명'

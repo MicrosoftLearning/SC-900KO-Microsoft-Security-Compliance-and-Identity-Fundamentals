@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Active Directory 살펴보기'
     module: '모듈 2 단원 1: Microsoft ID 및 액세스 관리 솔루션의 기능 설명: Azure AD의 서비스 및 ID 유형 살펴보기'

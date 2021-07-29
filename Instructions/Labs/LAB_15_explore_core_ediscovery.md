@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '코어 eDiscovery 워크플로 살펴보기'
     module: '모듈 4 단원 4: Microsoft 규정 준수 솔루션의 기능 설명: Microsoft 365의 eDiscovery 및 감사 기능 설명'
