@@ -18,7 +18,7 @@ lab:
 
 1. Microsoft Edge 아이콘을 마우스 오른쪽 단추로 클릭하고 **새 InPrivate 창**을 선택하여 새 InPrivate 브라우저 세션을 엽니다. 기타 
 
-1. 주소 표시줄에 **www.microsoftazurepass.com**을 입력합니다.  
+1. 주소 표시줄에 **www.microsoftazurepass.com** 을 입력합니다.  
 
 1. 시작 단추를 선택하여 시작합니다.
 
