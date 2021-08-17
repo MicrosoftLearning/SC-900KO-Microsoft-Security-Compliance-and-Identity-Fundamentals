@@ -17,7 +17,7 @@ lab:
 
 1. Microsoft Edge를 엽니다.
 
-1. 주소 표시줄에 **https://aks.ms/STP** 를 입력합니다.  그러면 Service Trust Portal 방문 페이지가 표시됩니다. Service Trust Portal에는 클라우드 서비스와 해당 서비스 내 고객 데이터를 보호하는 Microsoft의 컨트롤 및 프로세스 구현에 대한 세부 정보가 포함되어 있습니다. 
+1. 주소 표시줄에 **https://aka.ms/STP** 를 입력합니다.  그러면 Service Trust Portal 방문 페이지가 표시됩니다. Service Trust Portal에는 클라우드 서비스와 해당 서비스 내 고객 데이터를 보호하는 Microsoft의 컨트롤 및 프로세스 구현에 대한 세부 정보가 포함되어 있습니다. 
 
 1. Service Trust Portal의 일부 리소스에 액세스하려면 Microsoft Cloud Services 계정을 사용하여 인증된 사용자로 로그인해야 하며, 규정 준수 자료 관련 Microsoft 비밀 유지 계약을 검토하고 해당 내용에 동의해야 합니다. Service Trust Portal 방문 페이지의 오른쪽 위에 로그인 옵션이 표시됩니다. 관리자 자격 증명을 사용하여 **로그인**합니다. 규정 준수 자료 관련 Microsoft 비밀 유지 계약에 동의하라는 메시지가 표시되면 **동의**를 선택하여 해당 내용에 동의합니다.
 
