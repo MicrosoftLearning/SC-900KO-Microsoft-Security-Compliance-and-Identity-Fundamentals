@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Microsoft 365의 민감도 레이블'
     module: '모듈 4 단원 2: Microsoft 규정 준수 솔루션의 기능 설명: Microsoft 365의 정보 보호 및 거버넌스 기능 설명'
